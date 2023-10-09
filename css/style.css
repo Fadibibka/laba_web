@@ -1,0 +1,80 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.count-input {
+	width:10%;
+	display: inline;
+}
+
+
+
+.add-to-basket-block {
+	margin-top: 7px;
+}
+
+
+.modal-image {
+	width: 100%;
+}
+
+.slide-image {
+margin-left: auto;
+margin-right: auto;
+    width: 100%;
+    border-radius: 70px;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 70px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+border-radius: 20px;
+background-color: #ffdeb8;
+}
+.buy-img {
+border-radius: 20px;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+.amount{
+    display: inline;
+}
+.product{
+    display: inline;
+}
+.remove-from-cart{
+    display: inline;
+}
+footer {
+    margin: 50px 0;
+}
